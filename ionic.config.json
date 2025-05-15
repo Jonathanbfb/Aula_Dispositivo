@@ -1,0 +1,7 @@
+{
+  "name": "aula15-05",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
